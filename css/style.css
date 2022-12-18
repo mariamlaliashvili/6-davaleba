@@ -32,6 +32,13 @@ ul{
     height: 35px;
     border: 2px solid gray;
     display: flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+.fa-magnifying-glass{
+    display: flex;
+    /* align-items: center;
+    justify-content:flex-end; */
 }
 section{
     width: 82%;
