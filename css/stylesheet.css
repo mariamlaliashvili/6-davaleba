@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Chivo Mono';
+    src: url('../font/ChivoMono-MediumItalic.eot');
+    src: url('../fontChivoMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fontChivoMono-MediumItalic.woff2') format('woff2'),
+        url('../fontChivoMono-MediumItalic.woff') format('woff'),
+        url('../fontChivoMono-MediumItalic.ttf') format('truetype'),
+        url('../fontChivoMono-MediumItalic.svg#ChivoMono-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
