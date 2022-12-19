@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'Chivo Mono';
     src: url('../font/ChivoMono-MediumItalic.eot');
-    src: url('../fontChivoMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fontChivoMono-MediumItalic.woff2') format('woff2'),
-        url('../fontChivoMono-MediumItalic.woff') format('woff'),
-        url('../fontChivoMono-MediumItalic.ttf') format('truetype'),
-        url('../fontChivoMono-MediumItalic.svg#ChivoMono-MediumItalic') format('svg');
-    font-weight: 500;
+    src: url('../font/ChivoMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../font/ChivoMono-MediumItalic.woff2') format('woff2'),
+        url('../font/ChivoMono-MediumItalic.woff') format('woff'),
+        url('../font/ChivoMono-MediumItalic.ttf') format('truetype'),
+        url('../font/ChivoMono-MediumItalic.svg#ChivoMono-MediumItalic') format('svg');
+    /* font-weight: 500; */
     font-style: italic;
     font-display: swap;
 }
