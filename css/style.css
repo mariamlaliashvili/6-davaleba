@@ -31,11 +31,10 @@ ul{
 .search{
     width: 227px;
     height: 35px;
-    /* border: 2px solid gray; */
     display: flex;
     justify-content:flex-end;
     align-items: center;
-    border-radius: 5%;
+    border-radius: 4%;
     background-color: #f2f5f8;
 }
 .fa-magnifying-glass{
